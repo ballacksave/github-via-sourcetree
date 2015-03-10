@@ -9,5 +9,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <h1>Hmmm, klo mau buat branch baru berdasarkan issue di github bgm ya caranya ? (spt di Jira->Stash)</h1>
+        <h1>Ini buat branch-nya via source tree</h1>
     </body>
 </html>
